@@ -1,0 +1,11 @@
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\obj\Debug\netcoreapp2.1\_01_ByteBank.csprojAssemblyReference.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\obj\Debug\netcoreapp2.1\_01_ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\obj\Debug\netcoreapp2.1\_01_ByteBank.AssemblyInfoInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\obj\Debug\netcoreapp2.1\_01_ByteBank.AssemblyInfo.cs
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\bin\Debug\netcoreapp2.1\_01_ByteBank.deps.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\bin\Debug\netcoreapp2.1\_01_ByteBank.runtimeconfig.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\bin\Debug\netcoreapp2.1\_01_ByteBank.runtimeconfig.dev.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\bin\Debug\netcoreapp2.1\_01_ByteBank.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\bin\Debug\netcoreapp2.1\_01_ByteBank.pdb
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\obj\Debug\netcoreapp2.1\_01_ByteBank.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\_01_ByteBank\obj\Debug\netcoreapp2.1\_01_ByteBank.pdb

@@ -1,0 +1,4 @@
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\07\obj\Debug\netcoreapp2.1\07.csprojAssemblyReference.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\07\obj\Debug\netcoreapp2.1\07.csproj.CoreCompileInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\07\obj\Debug\netcoreapp2.1\07.AssemblyInfoInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\_01_ByteBank\07\obj\Debug\netcoreapp2.1\07.AssemblyInfo.cs

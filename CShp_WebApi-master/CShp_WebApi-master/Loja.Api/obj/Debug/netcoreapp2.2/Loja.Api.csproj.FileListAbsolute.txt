@@ -1,0 +1,4 @@
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp2.2\Loja.Api.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp2.2\Loja.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp2.2\Loja.Api.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp2.2\Loja.Api.AssemblyInfo.cs

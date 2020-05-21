@@ -1,0 +1,68 @@
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.exe
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\staticwebassets\Loja.Api.StaticWebAssets.Manifest.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\staticwebassets\Loja.Api.StaticWebAssets.xml
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.deps.json
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.runtimeconfig.json
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.pdb
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.csproj.CopyComplete
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.pdb
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.genruntimeconfig.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Costa\source\repos\Loja\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.exe
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.deps.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.runtimeconfig.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.runtimeconfig.dev.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Loja.Api.pdb
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.csprojAssemblyReference.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.csproj.CoreCompileInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.AssemblyInfoInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.AssemblyInfo.cs
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.RazorTargetAssemblyInfo.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.csproj.CopyComplete
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\staticwebassets\Loja.Api.StaticWebAssets.Manifest.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\staticwebassets\Loja.Api.StaticWebAssets.xml
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.pdb
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\CShp_WebApi-master\CShp_WebApi-master\Loja.Api\obj\Debug\netcoreapp3.1\Loja.Api.genruntimeconfig.cache

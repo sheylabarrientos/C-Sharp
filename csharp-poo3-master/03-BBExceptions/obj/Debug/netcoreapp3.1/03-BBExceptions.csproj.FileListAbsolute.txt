@@ -1,0 +1,11 @@
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\bin\Debug\netcoreapp3.1\03-BBExceptions.exe
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\bin\Debug\netcoreapp3.1\03-BBExceptions.deps.json
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\bin\Debug\netcoreapp3.1\03-BBExceptions.runtimeconfig.json
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\bin\Debug\netcoreapp3.1\03-BBExceptions.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\bin\Debug\netcoreapp3.1\03-BBExceptions.dll
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\bin\Debug\netcoreapp3.1\03-BBExceptions.pdb
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\obj\Debug\netcoreapp3.1\03-BBExceptions.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\obj\Debug\netcoreapp3.1\03-BBExceptions.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\obj\Debug\netcoreapp3.1\03-BBExceptions.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\obj\Debug\netcoreapp3.1\03-BBExceptions.dll
+C:\Users\Ingrid Costa\source\repos\ByteBankExceptions\03-BBExceptions\obj\Debug\netcoreapp3.1\03-BBExceptions.pdb
