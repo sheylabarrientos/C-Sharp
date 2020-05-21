@@ -1,0 +1,11 @@
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\obj\Debug\netcoreapp2.1\Area_Preco.csprojAssemblyReference.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\obj\Debug\netcoreapp2.1\Area_Preco.csproj.CoreCompileInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\obj\Debug\netcoreapp2.1\Area_Preco.AssemblyInfoInputs.cache
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\obj\Debug\netcoreapp2.1\Area_Preco.AssemblyInfo.cs
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\bin\Debug\netcoreapp2.1\Area_Preco.deps.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\bin\Debug\netcoreapp2.1\Area_Preco.runtimeconfig.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\bin\Debug\netcoreapp2.1\Area_Preco.runtimeconfig.dev.json
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\bin\Debug\netcoreapp2.1\Area_Preco.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\bin\Debug\netcoreapp2.1\Area_Preco.pdb
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\obj\Debug\netcoreapp2.1\Area_Preco.dll
+C:\Users\sheyl\IniciandoCSharp-master\IniciandoCSharp-master\Area_Preco\Area_Preco\obj\Debug\netcoreapp2.1\Area_Preco.pdb

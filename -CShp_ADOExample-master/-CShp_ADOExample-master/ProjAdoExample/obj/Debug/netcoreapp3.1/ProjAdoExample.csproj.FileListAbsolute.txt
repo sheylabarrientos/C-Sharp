@@ -1,0 +1,4 @@
+C:\Users\icosta\source\repos\AdoExample\ProjAdoExample\bin\Debug\netcoreapp3.1\ProjAdoExample.exe
+C:\Users\icosta\source\repos\AdoExample\ProjAdoExample\obj\Debug\netcoreapp3.1\ProjAdoExample.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\AdoExample\ProjAdoExample\obj\Debug\netcoreapp3.1\ProjAdoExample.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\AdoExample\ProjAdoExample\obj\Debug\netcoreapp3.1\ProjAdoExample.AssemblyInfo.cs
